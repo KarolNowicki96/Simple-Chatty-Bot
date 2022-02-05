@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-classes-java.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-reports-tests.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-test-results.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-tmp.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-Chocolate.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-Interval.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-Leap_year.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-Queens.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-Triangle.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Desks.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Difference_of_times.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Reversing.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Snail.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Introduction_to_Java-Hello.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Introduction_to_Java-Memory_cleaning.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Introduction_to_Java-Running_a_program_on_different_platforms.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Introduction_to_Java-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Overview_of_the_basic_program-Elements_of_a_program.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Overview_of_the_basic_program-Find_a_word_that_is_not_a_keyword.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Overview_of_the_basic_program-Statements.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Overview_of_the_basic_program-The_Hello_World_program.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Printing_data-Digits_from_0_to_9_backwards.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Printing_data-Stars.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Printing_data-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Printing_data-We_need_to_learn_Java.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Check_the_sum.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Exactly_one_parameter_is_positive.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Groundhogs_at_a_party.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Is_between.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Scanning_the_input-Guest_list_of_a_hotel.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Scanning_the_input-Hiring_a_chef.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Scanning_the_input-Printing_each_word_in_a_new_line.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Scanning_the_input-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-String-Check_prefix_ignoring_the_case.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-String-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-The_for-loop-Arithmetic_average.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-The_for-loop-Maximum_element_divisible_by_four.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-The_for-loop-Numbers_divisible_by_six.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-The_for-loop-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
